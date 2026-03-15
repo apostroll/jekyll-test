@@ -26,6 +26,7 @@ url: "https://apostroll.github.io" # the base hostname & protocol for your site,
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+permalink: /:title/
 # Build settings
 theme: minima
 plugins:
