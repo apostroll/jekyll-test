@@ -9,7 +9,7 @@ What remains are these scattered journals — fragments of a party that dared en
 ## Sessions
 
 <ul class="session-list">
-  <li><a href="/session-01/">Session 01 – Death House</a></li>
+  <li><a href="{{ '/session-01/' | relative_url }}">Session 01 – Death House</a></li>
   <!-- Add more as you write them -->
 </ul>
 
